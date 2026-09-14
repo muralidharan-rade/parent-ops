@@ -1,4 +1,4 @@
-# Parent Co-pilot (Strands Agent SDK on AWS)
+# ParentOps (Strands Agent SDK on AWS)
 
 Educational & Administrative Co-pilot for parents, refactored with the **AWS Strands Agent SDK** (`strands-agents`) and running on **Amazon Web Services (AWS)** using **Amazon Bedrock**, **Amazon DynamoDB**, and **AWS SQS**.
 
